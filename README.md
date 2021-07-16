@@ -8,8 +8,6 @@ Desarrollador backend con conocimientos en JavaScript, Node js y SQL. Aficionado
  🌱 Actualmente estudiando <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> y <img src="https://img.shields.io/badge/-Ruby-ea0000?style=flat&logo=Ruby&logoColor=white">
  
  :books: Me gustaria aprender mas sobre la nube y tecnologia blockchain
- 
- ![Profile views](https://gpvc.arturio.dev/jesusdmm)  <img src="https://img.shields.io/github/followers/jesusdmm?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 
