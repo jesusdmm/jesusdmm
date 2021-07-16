@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hello Wold! 👋
 
 ---
 
@@ -28,7 +28,7 @@ Soy un desarrollador backend con conocimientos en JavaScript, Node js y SQL. Afi
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jesusdmm&theme=nightowl&show_icons=true" alt="jesusdmm" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jesusdmm&theme=nightowl&show_icons=true" alt="jesusdmm" /> -->
 
 ---
 
