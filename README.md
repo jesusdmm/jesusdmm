@@ -2,7 +2,7 @@
 
 ---
 
-Desarrollador backend con conocimientos en JavaScript, Node js y SQL. Aficionado autodidacta de las tecnologias y con grandes aspiraciones profesionales en el mundo del desarrollo. Me encuentro constantemente expandiendo mis conocimientos en las tecnologías mas actuales del desarrollo de software
+Soy un desarrollador backend con conocimientos en JavaScript, Node js y SQL. Aficionado autodidacta de las tecnologias y con grandes aspiraciones profesionales en el mundo del desarrollo. Me encuentro constantemente expandiendo mis conocimientos en las tecnologías mas actuales del desarrollo de software
  
  
  🌱 Actualmente estudiando <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> y <img src="https://img.shields.io/badge/-Ruby-ea0000?style=flat&logo=Ruby&logoColor=white">
