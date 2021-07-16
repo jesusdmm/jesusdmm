@@ -35,5 +35,4 @@ Soy un desarrollador backend con conocimientos en JavaScript, Node js y SQL. Afi
 
 ### Puedes encontrarme en 🌍
 [![Linkedin](https://img.shields.io/badge/-JesusMarcano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-david-marcano-7b1889200/)
-[![Instagram](https://img.shields.io/badge/-esudavi-c13584?style=flat&labelColor=c13584&logo=twitter&logoColor=white)](https://www.instagram.com/joykishan_sharma)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
+[![Twitter](https://img.shields.io/badge/-esudavi-c13584?style=flat&labelColor=00e8ff&logo=twitter&logoColor=white)](https://twitter.com/esudavi)
