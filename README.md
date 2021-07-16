@@ -37,7 +37,3 @@ Soy un desarrollador backend con conocimientos en JavaScript, Node js y SQL. Afi
 [![Linkedin](https://img.shields.io/badge/-JesusMarcano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-david-marcano-7b1889200/)
 [![Twitter](https://img.shields.io/badge/-esudavi-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/esudavi)
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
-
