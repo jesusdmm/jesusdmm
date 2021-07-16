@@ -35,4 +35,4 @@ Soy un desarrollador backend con conocimientos en JavaScript, Node js y SQL. Afi
 
 ### Puedes encontrarme en 🌍
 [![Linkedin](https://img.shields.io/badge/-JesusMarcano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-david-marcano-7b1889200/)
-[![Twitter](https://img.shields.io/badge/-esudavi-00d9ef?style=flat&labelColor=00d9ef&logo=twitter&logoColor=white)](https://twitter.com/esudavi)
+[![Twitter](https://img.shields.io/badge/-esudavi-00acee?style=flat&labelColor=00acee&logo=twitter&logoColor=white)](https://twitter.com/esudavi)
