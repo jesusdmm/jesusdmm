@@ -28,7 +28,8 @@ Desarrollador backend con conocimientos en JavaScript, Node js y SQL. Aficionado
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jesusdmm_icons=true&theme=tokyonight" alt="jesusdmm" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusdmm_icons=true&theme=nightowl)
+
 
 ---
 
