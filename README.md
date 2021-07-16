@@ -1,32 +1,17 @@
-### Hey Sourav here 👋
+### Hey there 👋
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
 Desarrollador backend con conocimientos en JavaScript, Node js y SQL. Aficionado autodidacta de las tecnologias y con grandes aspiraciones profesionales en el mundo del desarrollo. Me encuentro constantemente expandiendo mis conocimientos en las tecnologías mas actuales del desarrollo de software
  
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> and <img src="https://img.shields.io/badge/-Ruby-ea0000?style=flat&logo=Ruby&logoColor=white">
+ 🌱 Actualmente estudiando <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> y <img src="https://img.shields.io/badge/-Ruby-ea0000?style=flat&logo=Ruby&logoColor=white">
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
-
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
-
+ :books: Me gustaria aprender mas sobre la nube y tecnologia blockchain
 
 ---
 
-
-### Tech & Tools Preference
+### Tecnologias y herramientas que me interesan
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
