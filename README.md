@@ -28,7 +28,7 @@ Desarrollador backend con conocimientos en JavaScript, Node js y SQL. Aficionado
 
 ---
 
-![jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusdmm&theme=dark&show_icons=true)
+![jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusdmm&theme=nightowl&show_icons=true)
 
 
 ---
